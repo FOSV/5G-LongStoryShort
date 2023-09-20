@@ -1,0 +1,68 @@
+CONSIDERAZIONI CIRCA LA TECNOLOGIA DI TELEFONIA MOBILE CELLULARE DI QUINTA GENERAZIONE “5G”
+ 
+Mi presento brevemente, sono Francesco Valenza, ho 25 anni e studio presso la facoltà di Ingegneria Elettronica e delle Telecomunicazioni del Politecnico di Bari.
+ L’intenzione del seguente elenco puntato, costituito da considerazioni oggettive e spunti di riflessione riguardo la questione “5G”, è quella di fornire al lettore una base di partenza per poter approcciare, in modo consapevole, il tema in oggetto: 
+ 
+1.    Anche il Wi-Fi non ha concluso le sperimentazioni di biocompatibilità elettromagnetica, ovvero, non ci sono sufficienti studi sugli effetti del Wi-Fi sulla salute umana.  Eppure, il Wi-Fi è utilizzato da tutti dentro e fuori casa.
+ 
+2.    Il Wi-Fi utilizza onde elettromagnetiche in due bande di frequenza 2,40GHz e 5GHz.
+ 
+3.    I forni a microonde utilizzano onde elettromagnetiche alla frequenza di 2,45GHz. 
+ 
+4.    La differenza tra ciò che emette il Wi-Fi e ciò che emette un forno a microonde è semplicemente data dalla potenza con cui viene irradiato il campo elettromagnetico: 0,1W nel primo caso e fino a 1000W nel secondo. 
+ 
+5.    È possibile sperimentare l’effetto termico delle onde elettromagnetiche tenendo il cellulare appoggiato all’orecchio per una buona mezz’ora per effettuare una semplice chiamata sotto rete cellulare o sotto rete Wi-Fi. L’effetto termico sarà più pronunciato tanto più lontani si è dalla antenna dell’operatore telefonico o dal modem Wi-Fi in quanto il telefono cellulare impiegherà più potenza per trasmettere correttamente i dati (a spese della batteria). 
+ 
+6.    La luce visibile è un’onda elettromagnetica in un range di frequenza che varia tra i 430THz ed i 770THz tenendo conto che 1 TeraHertz equivale 1000 GigaHertz.
+ 
+7.    La luce del sole nel Sud Italia incide sul terreno con una irradianza pari a 180W-200W al metro quadro al netto di tutte le attenuazioni.
+ 
+8.    L’effetto termico della luce lo si conosce da tempi immemori, è infatti facile ustionarsi passando una giornata al mare senza le dovute protezioni.
+ 
+9.    Si parla di come, a causa della riduzione dell’ozonosfera, la luce solare possa favorire l’insorgere di tumori della pelle nei soggetti che si espongono a tale fonte luminosa senza adeguate precauzioni (crema solare).
+ 
+10. La luce solare oltre che comporsi di onde elettromagnetiche nello spettro del visibile è composta anche di onde elettromagnetiche nello spettro dell’infrarosso e dell’ultravioletto. Lo spettro dell’infrarosso è compreso tra i 300GHz e i 428THz mentre l’ultravioletto va da 749THz a 30PHz. Nello specifico: PetaHertz -> 1PHz = 1.000THz = 1.000.000GHz.
+ 
+11. Lo spettro ultravioletto, conosciuto come “raggi UV”, si divide secondo lo standard ISO in 9 bande, basterà prendere solo le prime 3 in esempio ai fini di questa trattazione ovvero UV-a, UV-b e UV-c.
+-       La banda UV-a va dai 749THz ai 950THz. 
+-       La banda UV-b va dai 950THz ai 1071THz (1,071PHz).
+-       La banda UV-c va dai 1071THz ai 3000THz (3PHz).
+ 
+12. È doveroso introdurre, seppur in modo superficiale, il concetto di frequenza e di lunghezza d’onda: La frequenza f è il numero di massimi (o minimi) che si possono misurare nell’unità di tempo (che è il secondo) in una funzione periodica; essa si misura in numero di “cicli”, “oscillazioni” al secondo; l’unità di misura sono gli Hertz o 1/s dove s sono i secondi e quindi la frequenza è espressa come il reciproco del tempo.   La lunghezza d’onda non è altro che la distanza tra due massimi (o due minimi) di una funzione periodica, essa si misura in metri. Nel caso specifico la funzione periodica è proprio l’onda elettromagnetica. Tale lunghezza d’onda λ è definita come: λ = v/f dove v è la velocità di propagazione dell’onda e f è la frequenza dell’onda. Considerando essere la velocità di propagazione pari alla velocità della luce c  = 3*10^8 m/s, è facile convertire le frequenze di cui sopra in lunghezze d’onda e quindi: - Le onde elettromagnetiche appartenenti alla banda UV-a hanno lunghezza d’onda comprese tra i 400nm e i 315nm. - Le onde elettromagnetiche appartenenti alla banda UV-b hanno lunghezza d’onda comprese tra i 315nm e i 280nm. - Le onde elettromagnetiche appartenenti alla banda UV-c hanno lunghezza d’onda comprese tra i 280nm e i 100nm.  
+13. L’energia di un’onda è direttamente proporzionale alla sua frequenza secondo la legge E = f*h dove h = 6,62607015*10^-34 J*s è la costante di Planck. N.B. Non confondere il concetto di energia con il concetto potenza, sono concetti legati in qualche modo ma sostanzialmente diversi.
+ 
+14. Confrontando la lunghezza d’onda con la dimensione dell’oggetto contro cui l’onda impatta è possibile capire se e come interagisce con l’oggetto. 
+ 
+15. In soldoni: tanto più la lunghezza d’onda sarà piccola, tanto più piccoli saranno gli oggetti con cui l’onda potrà interagire e tanto più alta sarà la sua energia.   Infatti, è noto l’utilizzo di lampade di tipo UV-c per la sterilizzazione di oggetti e per il trattamento dell’aria e dell’acqua al fine di modificare il DNA o l'RNA dei microorganismi e impedire loro di riprodursi o di essere dannosi.
+ 
+16. La porzione ad alta frequenza dello spettro ultravioletto, lo spettro dei raggi X e quello dei raggi gamma (radiazioni elettromagnetiche prodotte dal decadimento radioattivo dei nuclei atomici o banalmente le radiazioni emesse da elementi radioattivi) fanno parte delle cosiddette radiazioni ionizzanti, ovvero tutte quelle radiazioni che trasportano abbastanza energia da liberare elettroni da atomi e molecole, ionizzandoli, appunto, modificandoli profondamente. 
+ 
+17. A questo punto è facile capire perché è caldamente sconsigliato fare frequenti esami radiodiagnostici, perché la radioterapia è usata molto cautamente e perché gli operatori in questi settori sono sempre ben protetti con appositi D.P.I. durante le procedure.
+ 
+18. Riepilogo delle bande occupate in Italia dalle tecnologie di comunicazione su rete cellulare: - 5G: 700/3700 MHz e 26 GHz.
+- 4,5G: 1500 MHz.
+- 4G: LTE FDD-LTE 800/1800/2100/2600 MHz.
+- 3G: HSDPA WCDMA 900/2100 MHz.
+- 2G: GSM 900/1800 MHz.
+ 
+19. Le onde elettromagnetiche sono state inserite dall'Agenzia Internazionale per la Ricerca sul Cancro nel gruppo 2B dei possibili cancerogeni per l'uomo, cioè la stessa che include il caffè e i sottaceti.
+ 
+20. Adesso, assodati tutti i punti precedenti, è possibile parlare in modo ragionato del 5G.
+ 
+21. Il 5G lavorerà sulle seguenti bande di frequenza: - 694-790 Mhz lunghezze d’onda comprese tra i 43,2 centimetri e i 38 centimetri (attualmente occupata dalla trasmissione televisiva) - 3,6-3,8 GHz lunghezze d’onda comprese tra i 8,33 centimetri e i 7,89 centimetri - 26,5-27,5 GHz lunghezze d’onda comprese tra i 1,13 centimetri e i 1,09 centimetri N.B. Nessuna di queste lunghezze d’onda è comparabile con le dimensioni di qualsivoglia microorganismo (batteri, virus, funghi,  etc) e cellula umana, tanto meno di “parti” e “sotto-parti” di essi (mitocondri, nuclei, dna, rna).
+ 
+22. Appurato, quindi, che le frequenze (e conseguentemente le lunghezze d’onda e l’energia) in gioco con il 5G non rientrano nel range delle radiazioni ionizzanti. L’unico fattore discriminante rimasto è l’effetto termico per irraggiamento di onde elettromagnetiche dato dalla potenza con cui le future antenne 5G irradieranno il loro campo elettromagnetico.
+ 
+23. Per poter valutare l’effetto termico derivante dalle potenze irradiate è necessario analizzare come viene distribuito (irradiato) il segnale attraverso le antenne. Irradiare il segnale con poche antenne, come avviene adesso, è sconveniente sotto almeno 3 punti di vista: - Copertura: in presenza di ostacoli per il segnale (edifici, ponti, impalcature, colline), una porzione della zona, a cui una sola antenna è stata dedicata, sarà coperta scarsamente dal segnale o peggio non lo sarà affatto. - Potenza: per risolvere il problema di copertura semplicemente si aumenta la potenza con cui viene irradiato il segnale sia da parte dell’antenna sia da parte del dispositivo cellulare, aumentando quindi in primo luogo l’effetto termico e in secondo luogo i consumi di energia elettrica e l’inquinamento elettromagnetico. - L’impatto architettonico delle attuali antenne è davvero poco gradevole.
+ 
+24. Installando più antenne di piccole dimensioni (come si rende necessario per la tecnologia 5G) è evidente come il segnale venga distribuito in modo più omogeneo e puntuale a parità di zona. Ciò scongiurano i problemi di copertura, l’utilizzo di potenze elevate e il cattivo impatto architettonico.
+ 
+25. Servendo una certa zona con tante piccole antenne, anziché con una sola grande antenna, la potenza irradiata totale nella suddetta zona sarà più bassa perché saranno servite meglio le zone in cui il segnale fa fatica ad arrivare e quindi non sarà più necessario utilizzare potenze elevate per garantire la copertura.
+ 
+26. Con il 5G la geo-localizzazione sarà più accurata poiché potranno esserci più antenne con cui triangolare il segnale. 
+ 
+27. Il 5G riuscirà a gestire meglio il traffico dati e telefonico grazie all’intrinseca maggiore velocità della tecnologia e anche grazie a una migliore distribuzione del segnale sul territorio (copertura).
+ 
+28. Il 5G sarà in grado di evitare disservizi in una zona ampia e ad un alto numero di utenti qualora si verifichi un guasto su una antenna, proprio perché ogni antenna servirà una zona relativamente piccola e di conseguenza un numero più limitato di utenti.
+
+29. Interessante, infine, citare i numerosi e rapidi sviluppi che consente questa tecnologia, quali smart-city, industria 4.0, internet of things e così via.
